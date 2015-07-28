@@ -16,3 +16,15 @@ body {
 h1 {
     text-align: center;
 }
+
+.box1 {
+    width: 100%;
+    height: 500px;
+    background: url("../res/images/top.png");
+}
+
+.box2 {
+    width: 100%;
+    height: 1000px;
+    background: url("../res/images/alert.png");
+}

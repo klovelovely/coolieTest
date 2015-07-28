@@ -1,3 +1,3 @@
 coolie.config({
-    "base": "./js/"
+    "base": "./"
 }).use();

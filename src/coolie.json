@@ -3,7 +3,7 @@
     "src": [
       "./hello.js"
     ],
-    "coolie-config.js": "./coolie-config.js",
+    "coolie-config.js": "./js/coolie-config.js",
     "dest": "./prod"
   },
   "css": {
@@ -14,7 +14,7 @@
   },
   "html": {
     "src": [
-      "./index.html"
+      "./ho.html"
     ],
     "minify": true
   },
