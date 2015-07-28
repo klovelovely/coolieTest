@@ -1,12 +1,17 @@
 {
   "js": {
     "src": [
-      "./static/js/app/**/*.js"
+      "./static/js/app.js",
+      "./static/js/app/**/*.js",
+      "./static/js/plugin/**/*.js"
     ],
     "coolie-config.js": "./static/js/coolie-config.js",
     "dest": "./static/js/"
   },
   "css": {
+    "src": [
+      "./static/css/*.css"
+    ],
     "dest": "./static/css/",
     "minify": {
       "compatibility": "ie7"
