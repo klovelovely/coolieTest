@@ -12,3 +12,7 @@ body {
     font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
     color: aquamarine;
 }
+
+h1 {
+    text-align: center;
+}
