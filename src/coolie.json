@@ -1,0 +1,30 @@
+{
+  "js": {
+    "src": [
+      "./hello.js"
+    ],
+    "coolie-config.js": "./coolie-config.js",
+    "dest": "./prod"
+  },
+  "css": {
+    "dest": "./prod/css",
+    "minify": {
+      "compatibility": "ie7"
+    }
+  },
+  "html": {
+    "src": [
+      "./index.html"
+    ],
+    "minify": true
+  },
+  "resource": {
+    "dest": "./prod/resources",
+    "minify": true
+  },
+  "copy": [],
+  "dest": {
+    "dirname": "../dest111",
+    "host": ""
+  }
+}

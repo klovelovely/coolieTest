@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    font-size: 100px;
+}
+
+body {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+    color: aquamarine;
+}
